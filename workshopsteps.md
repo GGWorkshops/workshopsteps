@@ -8,7 +8,7 @@
 
 ` $ sudo installer -pkg /Library/Developer/CommandLineTools/Packages/macOS_SDK_headers_for_macOS_10.14.pkg -target /`
 
-## Step 3: Install Homebrew (2 commands)
+## Step 3: Install Homebrew
 - Homebrew helps download programs such as gradle
 
 `$ /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" `
